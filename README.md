@@ -6,36 +6,32 @@
      Designed for GitHub Profile README rendering.
      ============================================================ -->
 
+<div align="center">
+
+<!-- ============================================================
+     SAMRIDDH GUPTA — GITHUB PROFILE README
+     Visual target: dark dashboard / engineering profile
+     Designed for GitHub Profile README rendering.
+     ============================================================ -->
+
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tr>
-<td width="23%" valign="middle">
-
-<img src="https://img.shields.io/badge/samriddh%40github:~%24-whoami-0D1117?style=for-the-badge&labelColor=0D1117&color=58A6FF" alt="whoami"/>
-
-</td>
-<td width="54%" align="center">
+<td align="center">
 
 # <span style="color:#58A6FF">SAMRIDDH</span> <span style="color:#A371F7">GUPTA</span>
 
 ### Computer Science Student · Problem Solver · Python Developer · Backend Engineer in Progress
 
 </td>
-<td width="23%" align="right">
-
-<img src="https://img.shields.io/badge/%3E_-_0D1117?style=for-the-badge&labelColor=0D1117&color=7EE787" alt="terminal"/>
-
-</td>
 </tr>
 </table>
 
-<p>
-<img src="https://img.shields.io/badge/%F0%9F%93%8D-New%20Delhi%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" alt="Location"/>
-&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%A7-samriddhgupta009@gmail.com-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" alt="Email"/>
-&nbsp;
-<a href="https://www.linkedin.com/in/samriddh-gupta-600a19393?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-<img src="https://img.shields.io/badge/%F0%9F%94%97-linkedin.com%2Fin%2Fsamriddh--gupta--990b112a1-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" alt="LinkedIn"/>
-</a>
+<p align="center">
+  📍 New Delhi, India
+  &nbsp;&nbsp;&nbsp;
+  📧 <a href="mailto:samriddhgupta1232006@gmail.com">Email</a>
+  &nbsp;&nbsp;&nbsp;
+  🔗 <a href="https://www.linkedin.com/in/samriddh-gupta-600a19393?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
 </p>
 
 </div>
