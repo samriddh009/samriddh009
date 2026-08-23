@@ -541,7 +541,7 @@ STATUS: BUILDING
         srcset="https://raw.githubusercontent.com/samriddh009/samriddh009/output/github-contribution-grid-snake.svg">
 <img src="https://raw.githubusercontent.com/samriddh009/samriddh009/output/github-contribution-grid-snake.svg"
      alt="GitHub contribution snake animation"
-     width="900">
+     width="100%">
 </picture>
 
 </div>
