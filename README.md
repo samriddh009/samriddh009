@@ -31,9 +31,9 @@
 <p>
 <img src="https://img.shields.io/badge/%F0%9F%93%8D-New%20Delhi%2C%20India-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" alt="Location"/>
 &nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%A7-samriddhgupta1232006%40gmail.com-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" alt="Email"/>
+<img src="https://img.shields.io/badge/%F0%9F%93%A7-samriddhgupta009@gmail.com-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" alt="Email"/>
 &nbsp;
-<a href="https://www.linkedin.com/in/samriddh-gupta-990b112a1">
+<a href="https://www.linkedin.com/in/samriddh-gupta-600a19393?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/%F0%9F%94%97-linkedin.com%2Fin%2Fsamriddh--gupta--990b112a1-0D1117?style=flat-square&labelColor=0D1117&color=8B949E" alt="LinkedIn"/>
 </a>
 </p>
