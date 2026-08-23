@@ -585,3 +585,19 @@ STATUS: BUILDING
         the output branch.
      5. Run the snake workflow manually once after adding the workflow.
      ============================================================ -->
+
+<br>
+
+<hr>
+
+<div align="center">
+
+<h2>Thanks for visiting! 🚀</h2>
+
+<p>
+  If you found something interesting here,
+  <br>
+  feel free to explore and see what I'm building.
+</p>
+
+</div>
