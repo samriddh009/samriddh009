@@ -49,7 +49,7 @@
 
 <td width="56%" valign="top">
 
-### 🖥️ `DSA TERMINAL // PROFILE`
+### 🖥️ `PROFILE`
 
 <img src="./dsa_terminal_profile.gif"
      alt="Samriddh Gupta DSA terminal profile"
