@@ -69,8 +69,8 @@
 
 ### 📈 CONTRIBUTIONS
 
-<img src="https://github-readme-stats.vercel.app/api?username=samriddh009&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=7EE787&hide_title=true&include_all_commits=true"
-     alt="GitHub contribution statistics"
+<img src="https://ghchart.rshah.org/58A6FF/samriddh009"
+     alt="GitHub contribution activity"
      width="100%"/>
 
 </td>
@@ -504,9 +504,24 @@ STATUS: BUILDING
 
 <td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samriddh009&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=7EE787&icon_color=58A6FF&hide_title=true&hide_rank=true&hide=issues,prs"
-     alt="GitHub engineering status"
-     width="100%"/>
+<table width="100%" cellspacing="0" cellpadding="6" border="0">
+<tr>
+<td align="left">🟢 <b>DSA</b></td>
+<td align="right"><code>SOLVING</code></td>
+</tr>
+<tr>
+<td align="left">🔵 <b>Backend</b></td>
+<td align="right"><code>BUILDING</code></td>
+</tr>
+<tr>
+<td align="left">🟣 <b>Learning</b></td>
+<td align="right"><code>ALWAYS</code></td>
+</tr>
+<tr>
+<td align="left">🟡 <b>Goal</b></td>
+<td align="right"><code>STRONG ENGINEER</code></td>
+</tr>
+</table>
 
 </td>
 
