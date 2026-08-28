@@ -89,7 +89,6 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=samriddh009&bg_color=0D1117&color=58A6FF&line=7EE787&point=F2CC60&area=true&hide_border=true&custom_title=Contribution%20Activity"
      alt="Contribution activity graph"
      width="100%"/>
-
 </td>
 <td width="22%" align="center">
 
