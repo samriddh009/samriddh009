@@ -293,29 +293,45 @@ A logistics platform where transportation providers compete for shipment request
 
 <br>
 
-`Python` · `FastAPI` · `SQLAlchemy` · `REST APIs`
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,react,vite&theme=dark" alt="Python FastAPI PostgreSQL React Vite"/>
+
+<img src="https://img.shields.io/badge/SQLAlchemy-ORM-D71F00?style=flat-square" alt="SQLAlchemy"/>
+<img src="https://img.shields.io/badge/JWT-Authentication-black?style=flat-square" alt="JWT"/>
+<img src="https://img.shields.io/badge/Pydantic-Validation-E92063?style=flat-square" alt="Pydantic"/>
+<img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=flat-square" alt="pytest"/>
+<img src="https://img.shields.io/badge/Alembic-Migrations-306998?style=flat-square" alt="Alembic"/>
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🎵 Moodify AI
+## 🛠️ PatchPilot
 
-<img src="https://img.shields.io/badge/MOOD-A371F7?style=flat-square&labelColor=161B22" alt="Mood"/>
-<img src="https://img.shields.io/badge/MUSIC_PERSONALIZATION-58A6FF?style=flat-square&labelColor=161B22" alt="Music personalization"/>
-<img src="https://img.shields.io/badge/BACKEND_SYSTEM-F2CC60?style=flat-square&labelColor=161B22" alt="Backend system"/>
+<img src="https://img.shields.io/badge/AI_POWERED-A371F7?style=flat-square&labelColor=161B22" alt="AI powered"/>
+<img src="https://img.shields.io/badge/AUTONOMOUS_DEBUGGING-58A6FF?style=flat-square&labelColor=161B22" alt="Autonomous debugging"/>
+<img src="https://img.shields.io/badge/DEVELOPER_TOOL-F2CC60?style=flat-square&labelColor=161B22" alt="Developer tool"/>
 
-A backend-focused application exploring mood-based interactions and personalized music experiences.
+An AI-powered code debugging and repair platform that investigates codebases, identifies bugs, and helps developers apply validated fixes through autonomous bug discovery and directed repair.
 
 <br>
 
-| User | → | Backend | → | Music | → | Personalized |
+| Codebase | → | AI Analysis | → | Fix & Test | → | Review |
 |---|---|---|---|---|---|---|
-| Mood | | Processing | | Recommendation | | Experience |
+| Project | | Detection | | Validation | | Approval |
 
 <br>
 
-`Python` · `FastAPI` · `Pydantic` · `SQLAlchemy` · `JWT`
+**Tech Stack**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,vite,docker&theme=dark" alt="Python FastAPI React TypeScript Vite Docker"/>
+
+<img src="https://img.shields.io/badge/Gemini_API-AI_Model-4285F4?style=flat-square" alt="Gemini API"/>
+<img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=flat-square" alt="pytest"/>
+<img src="https://img.shields.io/badge/npm-Package_Manager-CB3837?style=flat-square" alt="npm"/>
+
+**Supported Languages:** Python · JavaScript · TypeScript · Java
 
 </td>
 
@@ -323,6 +339,7 @@ A backend-focused application exploring mood-based interactions and personalized
 </table>
 
 ---
+
 
 <h2>🛠️ TECH STACK</h2>
 
